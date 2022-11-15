@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "USER_NAME_MYSQL",
+    "password": "PASSWORD_MYSQL",
+    "database": "DATABASE_NAME_VERSION_DEV",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "USER_NAME_MYSQL",
+    "password": "PASSWORD_MYSQL",
+    "database": "DATABASE_NAME_VERSION_TEST",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "USER_NAME_MYSQL",
+    "password": "PASSWORD_MYSQL",
+    "database": "DATABASE_NAME_VERSION_PRODUCTION",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
