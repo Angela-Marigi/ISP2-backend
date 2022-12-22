@@ -17,3 +17,6 @@ Collections added in mongodb:
 4. report
 5. participants
 ... indexes(arrays) available in /app/db/mongo/models
+
+
+Link to frontend: https://github.com/Angela-Marigi/ISP2-frontend.git
