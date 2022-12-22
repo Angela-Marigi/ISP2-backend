@@ -1,6 +1,6 @@
 # Project-backend
 
-
+Backend for ChatApp
 Technologies used (frontend and backend):
 Node.js
 React.js
